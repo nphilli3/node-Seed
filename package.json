@@ -15,7 +15,7 @@
   "node-red": "^1.0.2",
   "pluralize": "^7.0.0",
   "save": "^2.3.2",
-  "sequelize": "^4.37.6",
+  "sequelize": "^5.15.1",
   "underscore": "^1.8.3"
  }
 }
